@@ -1,2 +1,2 @@
-# alx-higher_level_programming
-ALX higher level programming
+The beigining of python
+HELLO WORLD
