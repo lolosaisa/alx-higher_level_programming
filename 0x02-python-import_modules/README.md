@@ -14,6 +14,12 @@ saves time
 it's easy to maintain a program that uses modules
 increases code readability
 
+to use the things in the in build module you have to use the name of the module then call whatever function you want
+example:
+import math
+print(math.e)// math s the name of our module and e is the value we want to access
+
+""""""""""""""""""""""""""""""PRACTICE QUESTIONS"""""""""""""""""""""""""""""""""""""""""""""""""""
 TASK 0
 0. Import a simple function from a simple file
 mandatory
